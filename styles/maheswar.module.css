@@ -1,0 +1,60 @@
+.div{
+    padding: 30px;
+    background-color: blanchedalmond;
+    color: #ff0101;
+    font-size: 25px;
+}
+.footer-main{
+    background: var(--footer-bg, #08192B);
+    color: #FFF;
+}
+.footer-logo{
+    color: var(--primary-bg, #FFF);
+    font-family: Reem Kufi Fun;
+    font-size: 41px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.copyright{
+    background: #0E2A47;;
+    color: #FFF;
+}
+.list-unstyled{
+    color: #FFF;
+    font-family: Arial;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    padding-bottom: 8px;
+}
+/* .anchor{
+    text-decoration: none;
+    color: #FFF; 
+}*/
+/* a:hover{
+    color:#635DFF;
+} */
+.title{
+    color: #FFF;
+    font-family: Righteous;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    padding-bottom: 20px;
+}
+img.icon {
+    padding: 12px;
+    border-radius: 50px;
+    background: #0E2A47;
+}
+.info p{
+    color: #FFF;
+    font-family: Righteous;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
